@@ -8,7 +8,9 @@ GROUP BY customerId
 ;
 
 SELECT
-*
+customerID,
+email,
+firstname,
 FROM customer;
 
 SELECT
