@@ -1,1 +1,4 @@
 Hello Git
+
+My name is Vicky I'm preparing for data analyst for past 3 months
+
