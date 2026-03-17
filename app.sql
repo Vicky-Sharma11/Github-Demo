@@ -13,6 +13,7 @@ SELECT
 customerID,
 email,
 firstname,
+mobile
 FROM customer;
 
 -- fetching productId and categoryId from prdouct table
