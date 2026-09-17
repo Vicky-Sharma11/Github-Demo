@@ -5,8 +5,8 @@ for n in numbers:
 def devision(a,b):
   return a/b
 
-def subtraction(a,b,c):
-  return a-b-c
+def subtraction(a,b,e):
+  return a-b-e
 
 def addition(a,b,c):
   return a+b+c
