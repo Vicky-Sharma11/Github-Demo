@@ -4,3 +4,6 @@ for n in numbers:
 
 def devision(a,b):
   return a/b
+
+def addition(a,b):
+  return a+b
